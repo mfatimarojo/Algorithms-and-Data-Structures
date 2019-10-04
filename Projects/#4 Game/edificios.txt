@@ -1,0 +1,79 @@
+1221
+Colegio Mayor Gaudeamus
+500
+200
+-50
+0
+1652
+Facultad de Informática
+1000
+100
+50
+0
+2232
+Facultad de Medicina
+1500
+200
+200
+0
+3343
+Edificio de Alumnos
+600
+-100
+50
+0
+3995
+Rectorado
+2000
+300
+100
+0
+4545
+Servicios Centrales
+500
+-100
+-50
+0
+6666
+Servicios Informáticos
+1500
+-200
+100
+0
+6767
+Facultad de Psicología
+1000
+100
+100
+0
+7731
+Facultad de Económicas
+2500
+500
+100
+0
+7772
+Centro de Estudios APG
+500
+200
+-150
+0
+7999
+Instalaciones Deportivas
+800
+-150
+100
+0
+8241
+Colegio Mayor UCM-Mixto
+300
+300
+-200
+0
+9969
+Colegio Mayor Calypso
+300
+350
+-250
+0
+-1

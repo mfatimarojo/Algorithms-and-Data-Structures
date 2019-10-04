@@ -17,7 +17,7 @@ typedef struct {
 	int estado;
 } tEdificio;
 
-typedef tEdificio *tRegPtr; //Puntero a array din√°mico
+typedef tEdificio *tRegPtr; //Puntero a array din·mico
 
 
 
