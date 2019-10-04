@@ -1,0 +1,31 @@
+pablo
+12345
+UCM-Campus I
+3000
+0
+-1
+raquel
+12345
+UCM-Rent
+3000
+0
+-1
+luis
+12345
+UCM-Campus II
+3000
+0
+-1
+kiko
+12345
+UCM-Campus III
+3000
+0
+-1
+javier
+12345
+UCM-Buildings
+3000
+0
+-1
+X
