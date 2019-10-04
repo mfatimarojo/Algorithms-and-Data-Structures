@@ -98,7 +98,7 @@ bool cargarJugadores (tJugador& jugador, tListaJugadores& listaJugadores) {
 				error = true;
 			}
 			else {
-				fIn >> jugador.contraseña;
+				fIn >> jugador.contraseÃ±a;
 				fIn.ignore();
 				fIn.getline(jugador.universidad, 50);
 				fIn >> jugador.dinero;
@@ -160,20 +160,20 @@ bool logIn (tJugador jugador, tListaJugadores listaJugadores) {
 bool logInAdmin() {
 	bool logIn = false;
 	int intentos = 3;
-	tCadena contraseña;
+	tCadena contraseÃ±a;
 
 	cout << "Contrasena (" << intentos << " intentos): ";
-	cin >> contraseña;
-	while ((strcmp(contraseña, "12345")) && (intentos > 0)) {
+	cin >> contraseÃ±a;
+	while ((strcmp(contraseÃ±a, "12345")) && (intentos > 0)) {
 		intentos--;
 		cout << "Contrasena (" << intentos << " intentos). ";
-		cin >> contraseña;
+		cin >> contraseÃ±a;
 	}
 	if (intentos <= 0) {
 		cout << "ERROR. Contrasena incorrecta." << endl;
 		logIn = false;
 	}
-	if (!strcmp(contraseña, "12345")) logIn = true;
+	if (!strcmp(contraseÃ±a, "12345")) logIn = true;
 
 	return logIn;
 }
